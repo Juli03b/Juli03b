@@ -50,4 +50,6 @@ I mostly have experience in React/Typescript for frontend, Flask and Express for
   * [Live Site](https://groupypay.surge.sh/)
   * [Front End Repo](https://github.com/Juli03b/groupypay-frontend)
   * [Back End Repo](https://github.com/Juli03b/groupypay)
+  * <img src="https://user-images.githubusercontent.com/76135151/169669636-2b72ad15-3d23-4cf0-8b35-dd5a40923325.png" width="500">
+  * <img src="https://user-images.githubusercontent.com/76135151/169671401-d7b48bd1-e013-470c-85ab-6d7cc0260016.png" width="500">
   * TODO
