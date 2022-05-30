@@ -1,4 +1,4 @@
-# Hello 👀
+# Hello
 full stack software engineer - I enjoy working on back-end and front-end systems.  
 I mostly have experience in React/Typescript for frontend, Flask and Express for backend, and postgreSQL for database.
 
