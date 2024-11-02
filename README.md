@@ -1,8 +1,9 @@
-# Hello
-full stack software engineer
-I mostly have experience in React/Typescript, Flask and Express, and postgreSQL.
+`Hello!
+I'm a full stack software engineer.
+My strong skills include building complex type-safe, robust, and scalable user interfaces and apis
+`
 
-#### Phonia
+#### Phonia 
   * A music searching platform that makes it easier to find songs that are similar to one's you love.
   - Python
     - Built all in Python with Jinja, Flask, and SQLAlchemy
@@ -41,4 +42,3 @@ I mostly have experience in React/Typescript, Flask and Express, and postgreSQL.
   * [Live Site](https://groupypay.surge.sh/)
   * [Front End Repo](https://github.com/Juli03b/groupypay-frontend)
   * [Back End Repo](https://github.com/Juli03b/groupypay)
-  * TODO
