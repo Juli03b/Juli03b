@@ -1,6 +1,5 @@
 `Hello!
 I'm a full stack software engineer.
-My strong skills include building complex type-safe, robust, and scalable user interfaces and apis
 `
 
 #### Phonia 
